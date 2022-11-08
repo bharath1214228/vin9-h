@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Nov 2022 18:02:36 at https://www.smartsites.com/work/web-design/hospitality/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.smartsites.com/work/web-design/hospitality/ -O1 "C:\My Web Sites\vin9" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:03:23	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.smartsites.com/work/web-design/hospitality/)
+18:03:25	Error: 	"Not Found" (404) at link https://www.smartsites.com/wp-content/themes/smartsites/_src/images/bulb-sm.png (from https://www.smartsites.com/wp-content/cache/minify/aa68e.css)
+18:03:25	Warning: 	Moved Permanently for https://www.smartsites.com/work/web-design/hospitality/dist/
+18:03:25	Warning: 	File has moved from https://www.smartsites.com/work/web-design/hospitality/dist/ to https://www.smartsites.com/work/b2b/distribution-marketing-landing-page/
+18:03:25	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/w3c/IntersectionObserver/master/polyfill/intersection-observer.js (from https://www.smartsites.com/wp-content/cache/minify/13546.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 49 seconds : 39 links scanned, 34 files written (2882393 bytes overall) [1237630 bytes received at 25257 bytes/sec], 2270967 bytes transferred using HTTP compression in 16 files, ratio 23%, 5.0 requests per connection
+(3 errors, 2 warnings, 0 messages)

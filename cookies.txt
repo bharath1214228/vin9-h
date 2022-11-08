@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+app.smith.ai	TRUE	/	FALSE	1999999999	visited	1
+.smith.ai	TRUE	/	FALSE	1999999999	prodsessionid	6rbvd3q2or0t01ri9s0q7kbdd7g1je54
+www.smartsites.com	TRUE	/	FALSE	1999999999	PHPSESSID	738ae75d0cd3ffffaa3ea6f395c486cd
+
